@@ -19,6 +19,8 @@ Alternatively, the script `create_mnistm.py` will give you the option to downloa
 
 This should generate the `./Datasets/MNIST_M/mnistm.h5` file.
 
+The dataset is also available here : [mnistm.h5](https://github.com/sghoshjr/tf-dann/releases/download/v1.0.0/mnistm.h5)
+
 ### Training
 
 Run the `DANN.py` script.
