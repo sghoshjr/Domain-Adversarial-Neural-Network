@@ -11,7 +11,7 @@ Tested with `tensorflow-gpu==2.0.0` and `python 3.7.4`.
 
 > Adapted from [@pumpikano](https://github.com/pumpikano/tf-dann/blob/master/create_mnistm.py)
 
-To generate the MNIST-M Dataset, you need to download the [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html#bsds500), and place it in `./Datasets/BSR_bsds500.tgz`
+To generate the MNIST-M Dataset, you need to download the [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html#bsds500), and place it in `./Datasets/BSR_bsds500.tgz`. Run the `create_mnistm.py` script.
 
 Alternatively, the script `create_mnistm.py` will give you the option to download the [dataset](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/BSR/BSR_bsds500.tgz), if it is not found in the directory.
 
