@@ -8,6 +8,7 @@ import tarfile
 import os
 import numpy as np
 import skimage
+import skimage.io
 import urllib.request
 import tensorflow as tf
 import h5py
